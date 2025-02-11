@@ -57,7 +57,7 @@ Scenario Planning is a **foresight technique** used to create **multiple plausib
 ### Scenario Matrix  
 **X-axis → Government Policy | Y-axis → Technological Advancements**  
 
-```plaintext
+```
                    Strong Regulation  
         ┏━━━━━━━━━━━━┳━━━━━━━━━━━━┓  
         ┃ Green Boom ┃ Government-led Green ┃  
@@ -67,13 +67,19 @@ Scenario Planning is a **foresight technique** used to create **multiple plausib
  Low     ┃ (Tech +)   ┃ (Tech -)           ┃  
         ┗━━━━━━━━━━━━┻━━━━━━━━━━━━┛  
                    Weak Regulation  
+```
+
+```
 | Scenario                  | Description                                  | Implications                                  |
 |---------------------------|----------------------------------------------|----------------------------------------------|
 | **Green Boom**            | Fast innovation, strong policies            | Huge growth in renewables, energy independence ⚡ |
 | **Government-led Green**  | Strict policies but slow tech                | High costs, reliance on subsidies ⚖️ |
 | **Innovation**            | Rapid tech growth, weak policies             | Private sector dominates, uneven adoption 🚀 |
 | **Fossil Fuel Stagnation** | No strong policy or innovation               | Continued reliance on fossil fuels 🛢️ |
+```
 
- Outcome: Companies prepare flexible strategies based on which scenario unfolds.
+✔️ **Outcome:** Companies prepare **flexible strategies** based on which scenario unfolds.  
 
-💡 "The future isn’t fixed—plan for multiple possibilities!"
+---
+
+## 💡 "The future isn’t fixed—plan for multiple possibilities!"  

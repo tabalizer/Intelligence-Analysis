@@ -70,12 +70,12 @@ Scenario Planning is a **foresight technique** used to create **multiple plausib
 ```
 
 ```
-| Scenario                  | Description                                  | Implications                                     |
-|---------------------------|----------------------------------------------|--------------------------------------------------|
-| **Green Boom**            | Fast innovation, strong policies             | Huge growth in renewables, energy independence ⚡ |
-| **Government-led Green**  | Strict policies but slow tech                | High costs, reliance on subsidies ⚖️             |
-| **Innovation**            | Rapid tech growth, weak policies             | Private sector dominates, uneven adoption 🚀     |
-| **Fossil Fuel Stagnation** | No strong policy or innovation              | Continued reliance on fossil fuels 🛢️            |
+| Scenario                   | Description                                  | Implications                                     |
+|----------------------------|----------------------------------------------|--------------------------------------------------|
+| **Green Boom**             | Fast innovation, strong policies             | Huge growth in renewables, energy independence ⚡ |
+| **Government-led Green**   | Strict policies but slow tech                | High costs, reliance on subsidies ⚖️             |
+| **Innovation**             | Rapid tech growth, weak policies             | Private sector dominates, uneven adoption 🚀     |
+| **Fossil Fuel Stagnation** | No strong policy or innovation               | Continued reliance on fossil fuels 🛢️            |
 ```
 
 ✔️ **Outcome:** Companies prepare **flexible strategies** based on which scenario unfolds.  

@@ -1,4 +1,4 @@
-# 🎯 Epic Cheat-Sheet: The Twelve Images of Intelligence  
+# 🎯 *The Twelve Images of Intelligence Cheat Sheet* 
 *With profound respect and deepest gratitude to **Dr. Kjetil Anders Hatlebrekke**—whose visionary work in *The Problem of Secret Intelligence* has forever transformed intelligence analysis.*  
 *This cheat sheet is my interpretation of his theory as described in his book; all honor and credit belong solely to Dr. Hatlebrekke.*
 

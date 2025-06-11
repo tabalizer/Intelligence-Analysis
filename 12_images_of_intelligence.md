@@ -1,13 +1,15 @@
-# 🎯 *The Twelve Images of Intelligence Cheat Sheet* 
+# 🎯 The Twelve Images of Intelligence  
 *With profound respect and deepest gratitude to **Dr. Kjetil Anders Hatlebrekke**—whose visionary work in *The Problem of Secret Intelligence* has forever transformed intelligence analysis.*  
+
 *This cheat sheet is my interpretation of his theory as described in his book; all honor and credit belong solely to Dr. Hatlebrekke.*
 
 ---
 
-## 📚 About the Author  
+## 📚 About the Author behind The Twelve Images of Intelligence
 **Dr. Kjetil Anders Hatlebrekke** (PhD, King’s College London; MA War Studies; MA Conflict & Security & Development; BA Nursing) served in the Norwegian Armed Forces from 1990 and held senior roles in the Norwegian Intelligence Service, including Specialist Director of Intelligence Development and Associate Professor at the Norwegian Defence Intelligence School 
 He operationally served in Bosnia, Kosovo, the Middle East, and Afghanistan (Enduring Freedom, Anaconda) and was awarded the US Navy Presidential Unit Citation.  
-*Dr. Hatlebrekke passed away after a courageous battle with cancer; his legacy endures through this groundbreaking framework.* #RIP!
+
+*Dr. Hatlebrekke passed away after a courageous battle with cancer; his legacy endures through this groundbreaking framework.*
 
 ---
 
@@ -21,7 +23,7 @@ He operationally served in Bosnia, Kosovo, the Middle East, and Afghanistan (End
 | **Experience**<br>(Product × Method)          | **Essence:** Practitioner know-how & tacit lessons  <br>**Q:** "What have operators learned?"              | • After-action reviews, veteran interviews, lessons-learned database  <br>• Codify SOPs from field insights                             | • Risk: “We’ve always done it this way” bias  <br>• Challenge with **Cleverness** to inject innovation                     |
 | **Service**<br>(Function × Phenomenon)             | **Essence:** Intelligence as enabler  <br>**Q:** "How can we best support decision-makers?"     | • Tailored dashboards & briefings  <br>• Feedback loops: "What worked? What next?"                   | • Risk: Reactive posture  <br>• Proactively trigger via **Intuition** when issues emerge                 |
 | **Objectivity**<br>(Function × Science)         | **Essence:** Neutrality & impartiality  <br>**Q:** "Am I free from bias?"                        | • Blind reviews, structured checklists  <br>• Rotate analysts to avoid groupthink                           | • Risk: Context-blindness  <br>• Complement with **Power** to surface real-world stakes                            |
-| **Staff Function**<br>(Function × Method)      | **Essence:** Process & coordination  <br>**Q:** "Are workflows optimized?"                  | • RACI charts, project-management tools  <br>• Automated collection→analysis pipelines                   | • Risk: Bureaucratic drag  <br>• Inject **Cleverness** to streamline redundant tasks            |
+| **Staff Function**<br>(Function × Method)      | **Essence:** Process & coordination  <br>**Q:** "Are workflows optimized?"                  | • RACI charts, project-management tools  <br>• Automated collection→analysis pipelines                   | • Risk: Bureaucratic drag  <br>• Inject **Cleverness** to streamline redundant tasks            |
 | **Intuition**<br>(Activity × Phenomenon)          | **Essence:** Gut-feel & rapid pattern sense  <br>**Q:** "What’s my instinct telling me?"             | • Hunch logs; rapid-feedback experiments  <br>• Red-flag registers for anomalies                          | • Risk: Cognitive biases  <br>• Always validate via **Truth** or **Falsification**                         |
 | **Falsification**<br>(Activity × Science)      | **Essence:** Seek disconfirming evidence  <br>**Q:** "What would invalidate this hypothesis?"        | • Devil’s-advocate teams; kill-criteria tables  <br>• Actively hunt for disconfirming intel                   | • Risk: Premature dismissal  <br>• Balance with **Elucidation**: test alternative models                 |
 | **Critical Rationalism**<br>(Activity × Method) | **Essence:** Continuous critique & refinement  <br>**Q:** "How can we improve our methods?"     | • Regular post-mortems on wins & failures  <br>• KPIs for analytic accuracy & timeliness            | • Risk: Paralysis by critique  <br>• Infuse **Wisdom** to keep strategic momentum                    |

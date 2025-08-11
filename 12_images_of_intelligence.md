@@ -1,7 +1,5 @@
 # 🎯 The Twelve Images of Intelligence  
-*With profound respect and deepest gratitude to **Dr. Kjetil Anders Hatlebrekke**—whose visionary work in *The Problem of Secret Intelligence* has forever transformed intelligence analysis.*  
-
-*This cheat sheet is my interpretation of his theory as described in his book; all honor and credit belong solely to Dr. Hatlebrekke.*
+This cheat sheet reflects my own interpretation of the concepts presented in the book **The Problem of Secret Intelligence** written by *Dr. Kjetil Andre Hatlebrekke* full credit and recognition belong entirely to Dr. Hatlebrekke*
 
 ---
 

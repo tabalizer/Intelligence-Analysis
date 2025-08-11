@@ -1,5 +1,5 @@
 # 🎯 The Twelve Images of Intelligence  
-This cheat sheet reflects my own interpretation of the concepts presented in the book **The Problem of Secret Intelligence** written by *Dr. Kjetil Andre Hatlebrekke* full credit and recognition belong entirely to Dr. Hatlebrekke*
+This cheat sheet reflects my own interpretation of the concepts presented in the book **The Problem of Secret Intelligence** written by *Dr. Kjetil Andre Hatlebrekke* full credit and recognition belong entirely to Dr. Hatlebrekke
 
 ---
 

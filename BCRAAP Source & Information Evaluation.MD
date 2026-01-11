@@ -1,106 +1,181 @@
-# 🧐 **BCRAAP Source & Information Evaluation Cheat Sheet**
+# 🧐 BCRAAP+  
+## Source, Information & Evidence Evaluation Cheat Sheet (INTEL-Grade)
 
-| 📄 **Version** | 🔧 **Last update** | ✍️ **Maintainer** |
-| -------------- | ----------------- | ---------------- |
-| 2.0            | Apr 2025          | [@tabalizer](https://www.linkedin.com/in/tabalizer/) |
-
----
-
-## A. ⚡ Quick-Guide (60-Second Scan)
-
-| STEP | WHAT TO CHECK | OK ✅ | RED FLAG 🚫 | ACTION 🛠️ |
-| ---- | ------------- | ---- | ----------- | ---------- |
-| **1. Bias 🎭** | Tone, framing | Balanced, cites both sides | Emotional, “us vs them” | Compare alt-view ✓ |
-| **2. Currency ⏳** | Date, live links | ≤ 12 mo old, links work | No date / 404 links | Wayback / newer source |
-| **3. Relevance 🎯** | Direct fit? | Answers need | Off-topic, too deep/shallow | Skim other hits |
-| **4. Authority 🏅** | Author, domain | Named expert, .edu/.gov | Anonymous blog, ads | Search author bio |
-| **5. Accuracy 🛡️** | Evidence | Primary data, references | No sources, stats off | Fact-check 2 refs |
-| **6. Purpose 🎯** | Intent, monetization | Inform/educate | Clickbait, hidden ads | Ask “Who gains?” |
-
-> ⏱️ **Rule-of-Thumb:** If ≥ 4 boxes are ✅ → safe to cite. Otherwise keep only as background.
+**Purpose:**  
+A practical, analyst-safe framework for evaluating **sources**, **claims**, and **evidence** under time pressure — with explicit safeguards against deception, influence, and false confidence.
 
 ---
 
-## B. 📜 Full Practical Guide
+## 📄 Metadata
 
-### 1️⃣ Bias – Identifying Human, AI & Content Tilt 🎭  
-- **Self-check first:** note your own stance—confirmation bias is sneaky.  
-- **AI bias audit:** paste text into *Sapling AI Bias Detector* or *GPTZero* → skim report.  
-- **Emotion test:** if wording triggers anger/fear/tribal pride, slow-read & cross-verify.  
-- **Algorithm lens:** switch to incognito + VPN to see how differently search results rank the topic.  
-- **Decision prompt:** *“Would I still trust this if it contradicted my view?”*
+| Version | Last update | Maintainer |
+|------|------------|-----------|
+| 3.0 | Jan 2026 | @tabalizer |
 
 ---
 
-### 2️⃣ Currency – Timeliness Matters ⏳  
-| PRACTICAL TIP | HOW-TO |
-| ------------- | ------ |
-| **Check publish/updated date** | CTRL + F “202” / “20xx”; if none, suspect stale. |
-| **Validate links fast** | Hover + glance at status bar; dead? open Wayback snapshot. |
-| **Industry half-life** | Tech/health: refresh ≤ 2 y. History: older OK if seminal. |
-| **Stealth edits** | Use *DiffChecker* on saved snapshots. |
-| **Alert** | For ongoing topics, set Google Alert with “site:.gov topic” filter. |
+## A. ⚡ 60-Second Quick Gate (Use This First)
+
+**DO NOT SCORE YET. PASS THE GATES.**
+
+### Gate 1 — Evidence Integrity (EI) ❗ *Hard Stop*
+- Provenance known?
+- First appearance identifiable (who/when/where)?
+- No signs of manipulation, re-captioning, or context drift?
+
+**❌ Fail → Do not cite. Background only.**
 
 ---
 
-### 3️⃣ Relevance – Fit for Purpose 🎯  
-1. **Define your need** (“I need a 2023 policy benchmark”).  
-2. **Run 3-source compare**: academic, trade press, stakeholder org.  
-3. **Audience alignment**: if briefing execs, skip PhD jargon; if thesis, prefer peer-reviewed depth.  
-4. **Citation test**: would you quote it in a board memo or academic references? If no—replace.  
+### Gate 2 — Claim Credibility (IC)
+- Is the claim **clear and falsifiable**?
+- Internally consistent?
+- Plausible given known constraints (technical, political, physical)?
+
+Rate: **Low / Medium / High**
 
 ---
 
-### 4️⃣ Authority – Credentials & Credibility 🏅  
-**Rapid drill-down:**  
-- **Author** → LinkedIn profile? publications? ORCID?  
-- **Host domain** → .gov/.edu > .org > .com > blogspot.  
-- **Transparency** → About page lists editorial policy & funding.  
-- **AI disclosure** → look for “This article was produced with AI and reviewed by …”.  
-- **External endorsements** → cited by another reputable site? Use Google Scholar “Cited by”.  
+### Gate 3 — Corroboration & Independence
+- Independent confirmation?
+- Truly independent (not re-posts, wire reuse, or circular citation)?
+
+Score: **0 / 1 / 2+ independent confirmations**
 
 ---
 
-### 5️⃣ Accuracy – Truth & Error Checking 🛡️  
-- **Triangulate data**: locate original dataset (e.g., UN, Eurostat).  
-- **Math sanity**: divide %, multiply base numbers—quick spreadsheet spot check.  
-- **Cross-language compare**: translate headline into another language & back—see if facts survive.  
-- **Peer review badge**: journals list reviewer process; blogs rarely do.  
-- **Auto-fact-checkers**: *NewsGuard*, *PolitiFact API*, *Snopes* search bar.  
-- **Quality signals**: clear graphs, citations, consistent style → higher trust.  
+### Gate 4 — Purpose & Incentives
+- Who benefits if this is believed?
+- Who loses if it is false?
+- Any signs of agenda, timing exploitation, or amplification?
+
+Risk: **Low / Medium / High**
 
 ---
 
-### 6️⃣ Purpose – Motivation Behind the Message 🎯  
-| SIGNAL | INFORMATIVE 🟢 | PROMOTIONAL 🟠 | MANIPULATIVE 🔴 |
-| ------ | -------------- | ------------- | -------------- |
-| **Disclosure** | Explains funding/conflicts | “Sponsored” small font | Hidden sponsorship |
-| **Language** | Neutral, data-driven | Persuasive tone | Fear or outrage bait |
-| **Benefit** | Reader gains insight | Seller gains clicks | Actor gains power |
-
-> **Ask:** *“If this is wrong, who loses money or influence?”* — track that trail.
-
----
-
-## 🧰 Toolkit for Fast Checks
-| CATEGORY | TOOL | WHAT IT DOES |
-| -------- | ---- | ------------ |
-| Browser add-on | **NewsGuard** | Displays source trust score |
-| AI detector | **GPTZero** | Flags GPT-style text |
-| Fact-check | **Google Fact Check Explorer** | Aggregates fact-checks |
-| Reverse image | **TinEye** | Finds image origins |
-| Archive | **Wayback Machine** | View deleted or edited pages |
-| Reference manager | **Zotero** | Tag entries with BCRAAP grade |
+### 🧠 Decision Rule (Replace “4 green = safe”)
+| Outcome | Rule |
+|------|-----|
+| **Safe to cite** | EI pass AND IC ≥ Medium AND ≥1 independent corroboration |
+| **Background only** | EI pass BUT no corroboration OR high purpose risk |
+| **Hold / Unverified** | Plausible but immature verification |
+| **Discard** | EI fail OR proven manipulation |
 
 ---
 
-## 📌 30-Second Rescue Routine (when in doubt)
-1. Copy-paste dubious claim into **Google “site:.gov OR site:.edu”** search.  
-2. Ctrl + F the biggest number → verify in primary doc.  
-3. Reverse-image top graphic.  
-4. Re-read headline minus adjectives → does meaning change?  
-5. Still fuzzy? Mark source as “background only” in notes.
+## B. 📜 Full Practical Framework (BCRAAP+)
+
+### 1️⃣ Bias — Analyst, Source & System 🎭
+- **Analyst self-check:** identify your prior belief.
+- **Language scan:** outrage, tribal framing, certainty without data.
+- **Algorithm lens:** incognito / alt-language search to surface framing differences.
+- **Decision test:** *Would this still persuade me if it contradicted my position?*
+
+⚠️ Note: AI-bias detectors may flag style, **not truth**. Use only as weak triage signals.
 
 ---
 
-### ✨ Stay Curious. Stay Skeptical. Stay BCRAAP. ✨
+### 2️⃣ Currency — Time vs Verification Maturity ⏳
+- Event time ≠ publication time.
+- Fresh ≠ verified.
+- High-impact claims demand **verification maturity**, not speed.
+
+Guidance:
+- Crisis / conflict: older + verified > newer + viral.
+- Tech / health: short half-life.
+- History / doctrine: age acceptable if primary/seminal.
+
+---
+
+### 3️⃣ Relevance — Fit for Analytical Task 🎯
+- Explicitly define the analytical need.
+- Match depth to audience (policy vs technical).
+- Ask: *Would I quote this in a decision memo?*
+
+If not → replace.
+
+---
+
+### 4️⃣ Authority — Reliability, Not Prestige 🏅
+Evaluate **track record**, not domain suffix.
+
+Check:
+- Author history on this topic.
+- Access to primary information.
+- Correction behavior when wrong.
+- Editorial transparency and funding.
+
+⚠️ Design quality ≠ truth. Well-resourced deception exists.
+
+---
+
+### 5️⃣ Accuracy vs Verifiability 🛡️
+Separate clearly:
+- **Verifiable:** can be independently checked now.
+- **Unverified:** plausible but not yet confirmable.
+- **False:** contradicted by reliable evidence.
+
+Practices:
+- Triangulate to primary datasets.
+- Sanity-check numbers.
+- Cross-language headline comparison.
+- Inspect citations: do they actually support the claim?
+
+---
+
+### 6️⃣ Evidence Integrity — Provenance & Chain of Custody 🔗
+Especially critical for OSINT and media.
+
+Ask:
+- Original uploader identifiable?
+- Metadata consistent?
+- Any cropping, recompression, translation, or re-captioning?
+- Is the media reused from another event?
+
+Integrity failure = **no citation**, regardless of narrative appeal.
+
+---
+
+### 7️⃣ Purpose & Influence Indicators 🎯
+Look for:
+- Strategic timing (elections, crises, sanctions).
+- Over-certainty (“we can confirm” without method).
+- Coordinated amplification across accounts.
+- Selective truth that advances a narrative.
+
+Ask:  
+*Is this designed to inform — or to steer behavior?*
+
+---
+
+## 🧰 Minimal Tooling (Use Sparingly)
+
+| Category | Tool | Use |
+|------|-----|----|
+| Archive | Wayback Machine | Deleted / edited pages |
+| Image | TinEye | Origin tracing |
+| Claims | Google Fact Check Explorer | Prior assessments |
+| Data | Official stats portals | Primary verification |
+| Notes | Zotero | Tag EI / IC / Risk status |
+
+⚠️ AI-text detectors: **style indicators only**, not truth arbiters.
+
+---
+
+## 📌 30-Second Rescue Routine (When Unsure)
+1. Check provenance first.
+2. Search claim via `site:.gov OR site:.edu`.
+3. Verify largest number or key fact.
+4. Reverse-image top media.
+5. Strip adjectives from headline — reassess meaning.
+
+If still unclear → **mark unverified or background**.
+
+---
+
+## 🧠 Core Principle (Read This Twice)
+> Authority can lie.  
+> Virality can mislead.  
+> Evidence integrity and independent corroboration are non-negotiable.
+
+**Stay curious. Stay skeptical. Stay BCRAAP+.**
